@@ -1,0 +1,5 @@
+Task.c:8:6:ToggleLEDRED_1	8	static
+Task.c:12:6:ToggleLEDRED_2	8	static
+Task.c:16:6:ToggleLEDRED_3	8	static
+Task.c:20:6:ToggleLEDRED_4	8	static
+Task.c:24:6:ToggleLEDRED_5	8	static
